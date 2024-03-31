@@ -1,3 +1,3 @@
 ## Invitato Public Assets
 
-Repository for storing public assets of Invitato.
+Centralized Public Assets for Invitato Web Invitation
